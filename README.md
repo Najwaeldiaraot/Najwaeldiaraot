@@ -5,6 +5,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=najwaeldiaraot" alt="najwaeldiaraot" /></a> </p>
 
+- 🔭 I’m currently studying **at Padang State University**
+
+- 🌱 I’m currently learning **C Language**
+
 - 🌷 Fun fact **I love watching drakor and sleeping**
 
 <h3 align="left">Connect with me:</h3>
@@ -16,3 +20,6 @@
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=najwaeldiaraot&show_icons=true&locale=en&layout=compact" alt="najwaeldiaraot" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=najwaeldiaraot&show_icons=true&locale=en" alt="najwaeldiaraot" /></p>
+
