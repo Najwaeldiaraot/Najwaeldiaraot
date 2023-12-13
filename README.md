@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Najwa Eldiara Owilia Tiksa</h1>
-<img align="center" alt="Coding" width="400" scr="![Header](./your-header-image-name.png)">
 <h3 align="justify">To those chasing dreams, never give up on them, remember we are not quitters !!!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=najwaeldiaraot&label=Profile%20views&color=0e75b6&style=flat" alt="najwaeldiaraot" /> </p>
