@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Najwa Eldiara Owilia Tiksa</h1>
-<h3 align="center">To those chasing dreams, never give up on them, remember we are not quitters !!!</h3>
+<img align="center" alt="Coding" width="400" scr="![Header](./your-header-image-name.png)">
+<h3 align="justify">To those chasing dreams, never give up on them, remember we are not quitters !!!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=najwaeldiaraot&label=Profile%20views&color=0e75b6&style=flat" alt="najwaeldiaraot" /> </p>
 
@@ -22,4 +23,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=najwaeldiaraot&show_icons=true&locale=en&layout=compact" alt="najwaeldiaraot" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=najwaeldiaraot&show_icons=true&locale=en" alt="najwaeldiaraot" /></p>
-
