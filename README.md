@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Najwa Eldiara Owilia Tiksa</h1>
-<img align="center" alt="web-developer"widht="100%" scr="![Header](./your-header-image-name.png)">
+<img align="center" alt="web-developer"widht="100%" >
 <h3 align="justify">To those chasing dreams, never give up on them, remember we are not quitters !!!</h3>
 
 - 🌷 Fun fact **I love watching drakor and sleeping**
