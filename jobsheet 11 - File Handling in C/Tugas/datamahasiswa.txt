@@ -1,0 +1,12 @@
+Data mahasiswa ke-1
+Nama : Najwa Eldiara Owilia Tiksa
+NIM : 23343079
+Jurusan : Teknik
+Program Studi : Informatika
+
+Data mahasiswa ke-2
+Nama : Mutiara Putri Ayu
+NIM : 23075164
+Jurusan : FPP
+Program Studi : PKK
+
